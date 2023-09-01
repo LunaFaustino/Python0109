@@ -1,4 +1,4 @@
-pontos = 50
+pontos = 100
 
 if pontos > 90:
     print("Excelente!")
